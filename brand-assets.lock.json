@@ -1,0 +1,20 @@
+{
+	"schema": 1,
+	"source": "CERALIVE/ceralive-brand",
+	"tag": "v2026.10.0",
+	"commit": "ed4110a94f8220d19d118b161cbaa980323c96e8",
+	"tarball": "ceralive-brand-2026.10.0.tar.gz",
+	"tarballSha256": "7c4fd4a27d00428574e4c6b10012c653fe2713e2aab36c462993edbe0980ac24",
+	"files": [
+		{
+			"from": "exports/svg/ceralive-logo-dark-no-tagline-cropped.svg",
+			"to": "profile/brand/ceralive-logo-dark-no-tagline-cropped.svg",
+			"sha256": "13d5f8f7c1dc92b8425ed9bfbaa4a122995577069f81ab92369b3077b1d90667"
+		},
+		{
+			"from": "exports/svg/ceralive-logo-light-no-tagline-cropped.svg",
+			"to": "profile/brand/ceralive-logo-light-no-tagline-cropped.svg",
+			"sha256": "2f97717133f79223175b096f8598959752e50ae705d0a8e1515795f78cbb13a3"
+		}
+	]
+}
